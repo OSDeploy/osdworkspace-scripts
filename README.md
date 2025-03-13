@@ -1,5 +1,7 @@
 OSDWorkspace Scripts
-This repository contains scripts that are used to automate the process of creating and managing OSDWorkspace. It is currently being prepared for release and is not yet available to the public.
+This repository contains scripts that are used to automate the process of creating,
+and managing OSDWorkspace. It is currently being prepared for release and is
+not yet available to the public.
 
 OSDWorkspace was created by:
 David Segura
@@ -20,4 +22,5 @@ https://mmsmoa.com
 WPNinjasUK: OSDWorkspace and OSDCloud (June 16-17 2025)
 https://wpninjas.uk
 
-OSDWorkspace will be released to the public some time after MMSMOA 2025. Stay tuned for more information.
+OSDWorkspace will be released to the public some time after MMSMOA 2025.
+Stay tuned for more information.
