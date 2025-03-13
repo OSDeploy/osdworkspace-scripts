@@ -1,0 +1,1 @@
+Install-PSResource -Name OSD.Workspace -Scope CurrentUser -SkipPublisherCheck -Verbose

@@ -1,0 +1,1 @@
+Update-Module -Name OSD -Scope CurrentUser -SkipPublisherCheck -Verbose

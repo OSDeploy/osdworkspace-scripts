@@ -1,0 +1,2 @@
+# Visual Studio Code Insiders (with recommended options)
+winget install -e --id Microsoft.VisualStudioCodeInsiders --override '/SILENT /mergetasks="!runcode,addcontextmenufiles,addcontextmenufolders,associatewithfiles,addtopath"'

@@ -1,0 +1,2 @@
+# Visual Studio Code (with recommended options)
+winget install -e --id Microsoft.VisualStudioCode --override '/SILENT /mergetasks="!runcode,addcontextmenufiles,addcontextmenufolders,associatewithfiles,addtopath"'

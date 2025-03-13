@@ -1,0 +1,1 @@
+Install-Module -Name OSD.Workspace -Scope CurrentUser -SkipPublisherCheck -Verbose
