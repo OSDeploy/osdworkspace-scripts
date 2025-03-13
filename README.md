@@ -1,5 +1,5 @@
-#OSDWorkspace.scripts
+# osdworkspace-scripts
 
 ```powershell
-iex "& { $(irm scripts.osdcloud.com) } -Repo OSDWorkspace.Scripts"
+iex "& { $(irm scripts.osdcloud.com) } -repo osdworkspace-scripts"
 ```
