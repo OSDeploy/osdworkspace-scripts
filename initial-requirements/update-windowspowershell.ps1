@@ -43,8 +43,11 @@ if ((Get-PSRepository -Name 'PSGallery').InstallationPolicy -ne 'Trusted') {
     Write-Host "PowerShell Gallery (PSGallery) is already Trusted."
 }
 
+# Install or update the PowerShellGet module.
+Install-Module -Name PowerShellGet -Force -Scope AllUsers -AllowClobber -SkipPublisherCheck -Verbose
+
 # Install or update the PackageManagement module.
-# This module provides cmdlets for discovering, installing, and managing software packages.
 Install-Module -Name PackageManagement -Force -Scope AllUsers -AllowClobber -SkipPublisherCheck -Verbose
 
+# Complete
 Write-Host "PowerShell 5.1 environment check and configuration complete."
